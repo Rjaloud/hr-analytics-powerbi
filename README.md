@@ -19,7 +19,7 @@ The dashboard consists of two main pages:
 
 # 01 — Workforce Overview
 
-![Workforce Overview](Screenshot%202026-08-16%20063000.png)
+![Workforce Overview](Screenshot%202026-08-16%20063300.png)
 
 The Workforce Overview page provides a snapshot of the current workforce, including headcount, tenure, payroll, Saudization, salary, demographics, departmental distribution, age, and performance.
 
