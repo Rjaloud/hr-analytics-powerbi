@@ -19,7 +19,7 @@ The dashboard consists of two main pages:
 
 # 01 — Workforce Overview
 
-![Workforce Overview](images/workforce-overview.png)
+![Workforce Overview](workforce-overview.png)
 
 The Workforce Overview page provides a snapshot of the current workforce, including headcount, tenure, payroll, Saudization, salary, demographics, departmental distribution, age, and performance.
 
@@ -58,7 +58,7 @@ The highest performance score, **5**, has the largest number of employees at 53.
 
 # 02 — Movement & Attrition
 
-![Movement & Attrition](images/movement-attrition.png)
+![Movement & Attrition](movement-attrition.png)
 
 This page focuses on employee movements, turnover, resignations, hiring trends, termination reasons, and departmental attrition.
 
